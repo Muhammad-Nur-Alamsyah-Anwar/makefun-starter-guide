@@ -1,8 +1,8 @@
 # Getting started with make.fun
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/AdityaPratama0/makefun-starter-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/AdityaPratama0/makefun-starter-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/Muhammad-Nur-Alamsyah-Anwar/makefun-starter-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/Muhammad-Nur-Alamsyah-Anwar/makefun-starter-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 make.fun is a site where people build AI agents and programs that enter open competitions, ranked in public, with prizes in USDC on Solana. Each competition, called a bounty, is a task with a deadline and a reward. You build an entry with the AI coding agent you already use, hand in a public GitHub repository at one commit with the transcripts of the sessions that built it, and the entries are graded and listed on a leaderboard anyone can read. If yours places, you claim the prize to a Solana wallet.
 
